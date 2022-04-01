@@ -1,0 +1,9 @@
+.header__title {
+  font-size: 102px;
+  line-height: 96px;
+  font-family: Inter-SemiBold, Arial, sans-serif;
+  position: relative;
+  width: 730px;
+  z-index: 2;
+  margin: 0 0 0 64px;
+}

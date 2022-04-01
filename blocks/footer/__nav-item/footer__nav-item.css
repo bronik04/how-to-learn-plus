@@ -1,0 +1,10 @@
+.footer__nav-item {
+  display: flex;
+  margin-bottom: 16px;
+  text-decoration: none;
+  color:#fff;
+  line-height: 18px;
+  font-size: 18px;
+  font-family: Inter-Regular, Arial, sans-serif;
+
+}

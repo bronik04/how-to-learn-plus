@@ -1,0 +1,4 @@
+.page_opacity-link:hover {
+  transition: all .2s linear;
+  opacity: .2;
+}

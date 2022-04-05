@@ -4,6 +4,7 @@
   height: 316px;
   position: relative;
   top: 50px;
+  border: none;
 }
 
 .video__iframe:last-of-type {

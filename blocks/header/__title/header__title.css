@@ -1,7 +1,8 @@
 .header__title {
   font-size: 102px;
   line-height: 96px;
-  font-family: Inter-SemiBold, Arial, sans-serif;
+  font-family: 'Inter', Arial, sans-serif;
+  font-weight: 700;
   position: relative;
   width: 730px;
   z-index: 2;

@@ -1,5 +1,4 @@
 .two-columns {
-  /* border: 2px dashed aqua; */
   display: flex;
   justify-content: space-between;
   width: 80%;

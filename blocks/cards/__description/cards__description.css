@@ -1,7 +1,8 @@
 .cards__description {
   line-height: 23px;
   font-size: 18px;
-  font-family: Inter-Regular, Arial, sans-serif;
+  font-family: Inter, Arial, sans-serif;
+  font-weight: 400;
   text-align: center;
   margin: 0;
 }

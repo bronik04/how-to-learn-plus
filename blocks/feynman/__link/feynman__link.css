@@ -1,11 +1,10 @@
 .feynman__link {
   line-height: 51px;
   font-size: 35px;
-  font-family: Inter-Regular, Arial, sans-serif;
+  font-family: Inter, Arial, sans-serif;
   position: absolute;
   top: 50%;
   right: 48px;
   text-decoration: none;
-
-
+  color: #2f80ed;
 }

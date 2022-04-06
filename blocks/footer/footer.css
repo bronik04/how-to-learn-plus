@@ -1,5 +1,7 @@
 .footer {
   background-color: #1f1f1f;
+  min-height: 350px;
+  box-sizing: border-box;
   padding-top: 60px;
   padding-bottom: 40px;
 }

@@ -3,8 +3,7 @@
   line-height: 96px;
   font-family: 'Inter', Arial, sans-serif;
   font-weight: 700;
-  position: relative;
-  width: 730px;
+  max-width: 730px;
   z-index: 2;
   margin: 0 0 0 64px;
 }

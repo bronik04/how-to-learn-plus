@@ -1,15 +1,20 @@
 .section-title {
+  /* Не уверен что нужно такое обнуление */
+  margin-block-start: 0;
+  margin-block-end: 0;
+  margin-inline-start: 0;
+  margin-inline-end: 0;
   line-height: 1.15;
   font-size: 60px;
   font-family: Inter, Arial, sans-serif;
   font-weight: 700;
   width: 60%;
   text-align: center;
-  margin-top: 0;
-  margin-bottom: 0;
   padding-bottom: 20px;
   position: relative;
   z-index: 2;
+  margin-top: 0;
+  margin-bottom: 0;
   margin-left: auto;
   margin-right: auto;
 }
